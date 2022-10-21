@@ -101,7 +101,7 @@ for ob in num_obs:
   final_q_vals[:, ob] = weighted_q_vals # save the q vals for current ob
 ```
 
-The analogous analytical procedure for TD(0) involves aggregating the transition and reward functions to create a new "effective TD(0) model" as shown in Figure 4. The effective model is the (possibly incorrect) MDP that TD(0) sees as it is running and updating according to its bootstrapping mechanism. This MDP might seem familiar as it also represents the fully observable possibility from the walkthrough at the end of Section 2, where, from the agent's perspective, there might have been one red state that stochastically sends you to either blue or purple.
+The analogous analytical procedure for TD(0) involves aggregating the transition and reward functions to create a new "effective TD(0) model" as shown in Figure 4. The effective model is the (possibly incorrect) MDP that TD(0) sees as it is running and updating according to its bootstrapping mechanism. This MDP might seem familiar as it also represents the fully observable possibility from the walkthrough at the end of Section 1, where, from the agent's perspective, there might have been one red state that stochastically sends you to either blue or purple.
 
 ![](images/figure4.png)
 **Figure 4:** *The effective TD(0) model for Environment B. After red, with either action, it appears to TD(0) as though there is a 50/50 chance of going to blue or purple. Adapted from a visualization by Cam Allen.*
