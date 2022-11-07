@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at Georgia Tech. My research interests include partial observability in RL, generalization in RL, and multi-agent RL especially toward studying collective intelligence and emergent (collaborative) behavior. In the past, I've worked as a software engineer mainly focusing on cloud backends--data processing, machine learning pipelines, and microservices.
+I am a Master's student in Computer Science at Georgia Tech. My research interests are primarily in reinforcement learning--partial observability, generalization, and multi-agent systems (especially toward studying emergent, collaborative behavior). In the past, I've worked as a software engineer mainly focusing on cloud backends--data processing, machine learning pipelines, and microservices.
