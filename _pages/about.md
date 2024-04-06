@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in increasing the autonomy and generalization capability of AI systems in our effort to understand the factors that lead to intelligent behavior and implement systems that exhibit this behavior in coordination with humans.
+I'm interested in developing a fundamental understanding of the mechanisms leading to intelligent behavior in individuals and societies + building systems that benefit from this understanding.
 
-My current research interests are primarily in reinforcement learning: **partial observability**, **generalization**, and **multi-agent** systems--especially toward studying emergent, collaborative behavior. I'm also interested in **open-ended learning** and **LLMs for code generation**.
+My research interests have been primarily in reinforcement learning: **partial observability**, **generalization**, and **multi-agent** systems--especially toward studying emergent, collaborative behavior. I'm also interested in **open-ended learning** and **LLMs for code generation**.
 
-In the past, I've worked as a software engineer mainly focused on cloud-based backends--data processing, machine learning pipelines, and microservices.
+In the past, I've worked as a software engineer mainly focused on cloud-based backends--data engineering, machine learning pipelines, and microservices.
+
+--
+
+other stuff i like:
+[cinema](https://boxd.it/5EHy7)
+[books](https://www.goodreads.com/user/show/174961565)

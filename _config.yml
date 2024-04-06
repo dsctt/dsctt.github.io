@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Daniel"
   avatar           : "profile.jpg"
-  bio              : "AI Researcher"
+  bio              : "AI Research"
   location         : "NYC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=-hO0nswAAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
