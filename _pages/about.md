@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in developing a fundamental understanding of the mechanisms leading to intelligent behavior in individuals and societies + building systems that benefit from this understanding.
+I'm interested in developing an understanding of the fundamental mechanisms leading to intelligent behavior in individuals and societies + building systems that benefit from this understanding.
 
 My research interests have primarily been in reinforcement learning: **partial observability**, **generalization**, and **multi-agent** systems--especially toward studying emergent, collaborative behavior. I'm also interested in **open-endedness** and **LLMs for code generation**.
 
