@@ -15,8 +15,8 @@ main:
   - title: "Blog"
     url: /blog/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/Daniel_Scott_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
